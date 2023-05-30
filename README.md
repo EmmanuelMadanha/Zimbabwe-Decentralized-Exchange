@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" target="_blank" />
 </p>
 <p align="center" >
-  <img src="./readme_assets/superswap.gif" width="80%" />
+  <img src="../../img/zim.png" width="80%" />
 </p>
 <h2 align="center"><a  href="https:///" target="_blank">✨ZIMDEX Link</a></h2>
 
@@ -52,31 +52,4 @@ npx harthat test
 npm start
 ```
 
-## Author
 
-👤 **Shiloh Madanha**
-* Website: 
-* Github: [@](https://github.com/raymadanha)
-* LinkedIn: [@ShilohMadanha](https://linkedin.com/in/shilohmadanha/)
-
-## Code Contributors
-
-This project exists thanks to all the people who contribute.<br />
-<a href="https://github.com/leidanwqq1/Superswap/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=leidanwqq1/Superswap" />
-</a>
-
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/leidanwqq1/Superswap/issues) if you want to contribute.<br />
-
-## Show your support
-
-Please ⭐️ this repository if this project helped you!
-
-## 📝 License
-
-Copyright © 2022 [Shiloh Madanha](https://github.com/raymadanha).<br />
-This project is [MSU](https://github.com/raymadanha/ZIMDEX/blob/master/LICENSE) licensed.
